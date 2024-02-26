@@ -13,5 +13,5 @@ Python, Pandas, Numpy, Matplotlib, SciPy, Seaborn, Plotly
 Visualization:\
 Tableau, QlikView, Datalens
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbinaGimadieva&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlbinaGimadieva&show_icons=true&theme=transparent)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=AlbinaGimadieva&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
