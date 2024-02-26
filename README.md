@@ -16,4 +16,9 @@ Tableau, QlikView, Datalens
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=AlbinaGimadieva&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
 
-https://komarev.com/ghpvc/?username=AlbinaGimadieva
+<img src="https://komarev.com/ghpvc/?username=AlbinaGimadieva&style=flat-square&color=blue" alt=""/>
+
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
