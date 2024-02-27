@@ -15,11 +15,14 @@ Tableau, QlikView, Datalens
   <a href="https://www.linkedin.com/in/albina-gimadieva-analyst/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="albinaetoya">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://t.me/albinaetoya">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=AlbinaGimadieva&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
 
 <img src="https://komarev.com/ghpvc/?username=AlbinaGimadieva&style=flat-square&color=blue" alt=""/>
+
+
+[![Telegram Badge](https://img.shields.io/badge/-your-username-blue?style=flat&logo=Telegram&logoColor=white)](your-tg-url)
