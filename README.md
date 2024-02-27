@@ -1,22 +1,22 @@
-## Привет, я Альбина!
+### Привет, я Альбина!
 :chart_with_upwards_trend: Аналитик данных с финансовым бэкграундом \
 :telescope: Люблю анализировать и делать открытия
 
 
-## Мои навыки
-- Python (Jupyter Notebook, Google Colab): Pandas, Numpy, Matplotlib, SciPy, Statsmodels, Seaborn, Plotly \
-- SQL: агрегация, подзапросы, join, оконные функции \
-- Excel: формулы, фильтры, сводные таблицы, подготовка отчетов \
-- Статистика: анализ результатов А/А и А/В-тестов \
-- Продуктовая аналитика: LTV, DAU, MAU, ARPU, ARPPU, Churn, Retention, Unit-экономика \
-- Визуализация данных: Tableau, QlikView, DataLens \
-- Машинное обучение: изучаю основы - типы задач, методы библиотеки sklearn. \
+### Мои навыки
+- Python (Jupyter Notebook, Google Colab): Pandas, Numpy, Matplotlib, SciPy, Statsmodels, Seaborn, Plotly 
+- SQL: агрегация, подзапросы, join, оконные функции 
+- Excel: формулы, фильтры, сводные таблицы, подготовка отчетов 
+- Статистика: анализ результатов А/А и А/В-тестов 
+- Продуктовая аналитика: LTV, DAU, MAU, ARPU, ARPPU, Churn, Retention, Unit-экономика 
+- Визуализация данных: Tableau, QlikView, DataLens 
+- Машинное обучение: изучаю основы - типы задач, методы библиотеки sklearn. 
 
 
-## Связаться со мной 
+### Связаться со мной 
 <div id="badges">
   <a href="https://www.linkedin.com/in/albina-gimadieva-analyst/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
   </a>
   <a href="https://t.me/albinaetoya">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
