@@ -1,6 +1,6 @@
 ### Привет, я Альбина!
 :chart_with_upwards_trend: Аналитик данных с финансовым бэкграундом \
-:telescope: Люблю анализировать и делать открытия
+:telescope: Люблю данные - на их основе совершаю открытия
 
 
 ### Мои навыки
@@ -19,10 +19,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-lightskyblue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
   </a>
   <a href="https://t.me/albinaetoya">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-lightskyblue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="mailto:albina.gmdv@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-lightskyblue?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
 
