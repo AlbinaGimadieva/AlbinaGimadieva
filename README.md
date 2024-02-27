@@ -16,7 +16,7 @@
 ### Связаться со мной 
 <div id="badges">
   <a href="https://www.linkedin.com/in/albina-gimadieva-analyst/">
-    <img src="https://img.shields.io/badge/LinkedIn-lightblue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-skyblue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
   </a>
   <a href="https://t.me/albinaetoya">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
