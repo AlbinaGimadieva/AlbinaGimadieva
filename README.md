@@ -15,13 +15,11 @@ Tableau, QlikView, Datalens
   <a href="https://www.linkedin.com/in/albina-gimadieva-analyst/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
+  <a href="albinaetoya">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=AlbinaGimadieva&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
 
 <img src="https://komarev.com/ghpvc/?username=AlbinaGimadieva&style=flat-square&color=blue" alt=""/>
