@@ -12,7 +12,7 @@ Visualization:\
 Tableau, QlikView, Datalens
 
 <div id="badges">
-  <a href="www.linkedin.com/in/albina-gimadieva-analyst">
+  <a href="https://www.linkedin.com/in/albina-gimadieva-analyst/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
